@@ -31,7 +31,6 @@ coverage:
         target: 75%
       lib:
         flags:
-          - pytest
         paths:
           - awx/
         target: 75%
