@@ -18,5 +18,4 @@ builds:
     prebuilt:
       path: build/dagger_{{ .Env.ENGINE_VERSION }}_{{ .Os }}_{{ .Arch }}{{ with .Arm }}_v{{ . }}{{ end }}/dagger
 
-checksum:
   name_template: "checksums.txt"
