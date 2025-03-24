@@ -15,7 +15,6 @@ hail/.ensime_cache.d/
 hail/.ensime_cache/
 hail/build/
 !hail/build/deploy/dist/*.whl
-hail/hail.iml
 hail/hail.log
 hail/out/
 !hail/out/assembly.dest/out.jar
