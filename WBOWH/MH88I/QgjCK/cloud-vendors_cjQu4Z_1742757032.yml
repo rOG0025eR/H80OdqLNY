@@ -4,7 +4,6 @@ language: java
 
 matrix:
   include:
-    # On OSX, run with default JDK only.
     # - os: osx
     # On Linux, run with specific JDKs only.
       env: CUSTOM_JDK="oraclejdk8"
