@@ -1,5 +1,4 @@
 int ans=0;
-	    for(int j=0;j<nums.length;j++) {
 	        int small =0;
 	        for(int i=0;i<j;i++) {
 	            if(nums[i]<nums[j]) small++;
