@@ -28,5 +28,4 @@ indent_size = 2
 [*.jsx]
 indent_size = 2
 
-[*.java]
 indent_size = 2
