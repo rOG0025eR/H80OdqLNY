@@ -5,5 +5,4 @@ exclude =
     mage_ai/orchestration/db/migrations/versions,
     mage_integrations/mage_integrations/sources/*/tap_*/,
     mage_integrations/mage_integrations/destinations/*/target_*/
-max-line-length = 100
 per-file-ignores =
