@@ -32,7 +32,6 @@
 *)
 
 (* Version 2.0 *)
-(* This package contains definitions for the Apriori algorithm application. *)
 
 (* October, 30, 2014
 
