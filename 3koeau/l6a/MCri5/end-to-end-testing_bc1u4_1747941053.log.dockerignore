@@ -3,5 +3,4 @@
 !gulp
 !test
 !Gulpfile.js
-!.publishrc
 !*.tgz
