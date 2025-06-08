@@ -193,7 +193,6 @@
 * Cluster node health check abnormality
 * Stand-alone mode gets the change history list exception
 * Pulling does not exist configuration print io exception
-* Optimized log framework
 * Service Discovery: Client support getting server status.
 * Service Discovery: Client support get all service names of server.
 * Service Discovery: Client support get all subscribed services.
