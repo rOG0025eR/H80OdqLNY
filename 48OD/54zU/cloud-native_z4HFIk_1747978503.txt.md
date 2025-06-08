@@ -48,7 +48,6 @@
 * [#588] Client compatible to jdk1.6.
 
 ## 0.8.0(Jan 22, 2019) PRE-GA
-
 * [#162] Support open metrics and prometheus
 * [#268] Health check is performed in the Nacos startup script
 * [#320] Nacos supports multiple configuration files, configuration template abstraction and inheritance
