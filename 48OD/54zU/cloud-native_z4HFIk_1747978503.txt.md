@@ -141,7 +141,6 @@
 * [#190] Client beat lose weight info and metadata info
 * [#188] Console delete data cannot be updated in time
 * [#179] Listening query fail when namespace is not blank
-* [#157] Lack information in readme.md to describe the related project repositories for Nacos echosystem
 * [#144] There have a error and something are not clear
 * [#106] Snapshot file create error
 * [#92] Eliminate warnings, refactor code, show start.log detail
